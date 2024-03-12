@@ -1,1 +1,7 @@
 this is my file in git coommands 
+
+
+
+adding changes to this file
+
+
